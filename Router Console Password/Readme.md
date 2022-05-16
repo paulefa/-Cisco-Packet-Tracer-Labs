@@ -16,8 +16,8 @@ Router Console Password<a name="TOP"></a>
 
 >NO
 
-![picture alt](../Router%20Consolw%20Password/images/db.png "Title is optional")
+![picture alt](../Router%20Console%20Password/images/db.png "Title is optional")
 
 ### 5. Enable password encryption on R1.  Verify by checking the running configuration, and then save your configurations. ###
-![picture alt](../Router%20Enable%20Password/images/e.png "Title is optional")
+![picture alt](../Router%20Console%20Password/images/e.png "Title is optional")
 
