@@ -5,7 +5,7 @@ Router Console Password<a name="TOP"></a>
 ![picture alt](../Router%20Console%20Password/images/a.png "Title is optional")
 
 ### 2. Use the console connection to configure the router from PC1.  Change the hostname to R1. ###
-![picture alt](../Router%20Enable%20Password/images/b.png "Title is optional")
+![picture alt](../Router%20Console%20Password/images/b.png "Title is optional")
 
 ### 3. Set the enable secret of R1 to 'cisco'. ###
 ![picture alt](../Router%20Enable%20Password/images/c.png "Title is optional")
