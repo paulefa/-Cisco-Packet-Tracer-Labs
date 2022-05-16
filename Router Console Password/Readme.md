@@ -8,7 +8,7 @@ Router Console Password<a name="TOP"></a>
 ![picture alt](../Router%20Console%20Password/images/b.png "Title is optional")
 
 ### 3. Set the enable secret of R1 to 'cisco'. ###
-![picture alt](../Router%20Enable%20Password/images/c.png "Title is optional")
+![picture alt](../Router%20Console%20Password/images/c.png "Title is optional")
 
 ### 4. Set the console password of R1 to 'ccna', and make it required to connect to R1 by the console port.  Check the runing configuration.  Is the password encrypted? ###
 >NO
