@@ -10,9 +10,11 @@ Serial Connection<a name="TOP"></a>
 
 ### 2. Identify which end of the serial cable attaching R1 and R2 is DCE and which is DTE. ###
 >R1 is DTC
+
 ![picture alt](../Serial%20Connection/images/c.png "Title is optional")
 
 >R2 is DTE
+
 ![picture alt](../Serial%20Connection/images/cb.png "Title is optional")
 
 ### 3. Set the clock rate on the DCE end to 64 Kb/s. ###
