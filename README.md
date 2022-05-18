@@ -2,7 +2,7 @@
 Networking Related Practical in Cisco Packet Tracer
 
 ## About Cisco Packet Tracer
-Packet Tracer is a tool which used to implement the knowledge of networking that we have gained and to prepare some popular exams like CCNA. This is a virtual environment that intimate a live Networking Simulation.
+Cisco Packet Tracer 8.1.1 is a powerful network simulator for CCNA and CCNP certification exam training allowing students to create networks with an almost unlimited number of devices and to experience troubleshooting without having to buy real Cisco routers or switches.
 
 Download the Cisco Packet Tracer Latest Version [here](https://www.netacad.com/courses/packet-tracer)
 
