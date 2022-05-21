@@ -1,7 +1,7 @@
 Trunk Configuration<a name="TOP"></a>
 ===================
 
-![picture alt](../006%20Trunk%20Encapsulation/image/o.png "Title is optional")
+![picture alt](../006%20Trunk%20Encapsulation/images/o.png "Title is optional")
 
 ### 1. Ping between the PCs to test connectivity. ###
 ![picture alt](../006%20Trunk%20Encapsulation/images/a.png "Title is optional")
