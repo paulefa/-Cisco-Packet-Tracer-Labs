@@ -12,8 +12,7 @@ Trunk Encapsulation<a name="TOP"></a>
 
 
 ### 3. Create a trunk between SW1 and SW2. ###
-
-![picture alt](../006%20Trunk%20Encapsulation/images/d.png "Title is optional")
+![picture alt](.. "Title is optional")
 
 ### 4. Ping between the PCs to test connectivity. ###
-![picture alt](.. "Title is optional")
+![picture alt](../006%20Trunk%20Encapsulation/images/d.png "Title is optional")
