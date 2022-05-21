@@ -8,7 +8,7 @@ Trunk Configuration<a name="TOP"></a>
 
 ### 2. Assign PC2 and PC3 to VLAN 2. ###
 
-![picture alt](../006%20Trunk%20Encapsulation/images/b.png"Title is optional")
+![picture alt](../006%20Trunk%20Encapsulation/images/b.png "Title is optional")
 
 ### 3. Create a trunk between SW1 and SW2. ###
 
